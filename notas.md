@@ -1,0 +1,3 @@
+- Quero entender como organizar meu repositório de apresentações
+- Quero aprender a atualizar as versões do presenter com modelos de slides
+- Quero aprender a colaborar melhor com outras pessoas através do GitHub
